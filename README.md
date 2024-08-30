@@ -54,8 +54,7 @@ I created and executed the `queries.sql` file to answer the business questions p
 
 The following Entity-Relationship Diagram (ERD) illustrated the database schema, showing the relationships between tables:
 
-![ERD Diagram](path_to_image/erd_image.png)
-
+![ERD Diagram](/EmployeeSQL/emp_db_ERD.png)
 ## Queries Overview
 
 Here’s a brief overview of the key queries included:
@@ -67,6 +66,8 @@ Here’s a brief overview of the key queries included:
 - **Name-Based Filtering:** Filtered employees based on specific name criteria.
 - **Department-Specific Employees:** Listed employees in specific departments like Sales and Development.
 - **Last Name Frequency:** Counted how often each last name appeared in the employee database.
-```
 
-You can copy and paste this directly into your `README.md` file.
+**Widchy Joachim**
+*Data Analyst*
+
+
