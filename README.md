@@ -33,7 +33,7 @@ I used pgAdmin to create the database. The steps followed were:
 I ran the `table_schemata.sql` file to create the required tables. This file contained the SQL commands necessary to create the tables based on the designed schema.
 
 1. In pgAdmin, I opened a Query Tool window connected to the `pewlett_hackard_employee_db` database.
-2. Creaated and loaded the `table_schemata.sql` file.
+2. Created and loaded the `table_schemata.sql` file.
 3. Executed the script to create the tables.
 
 ### 4. Imported Data from CSV Files
